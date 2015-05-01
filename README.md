@@ -29,7 +29,8 @@ Today you will be teaching students how JavaScript arrays and loops work, and ho
 
 *12:00 - 1:00* Lunch
 
-*1:00 - 1:30* Review of [jQuery](https://learn.co/admin/lessons/5190) Fundamentals
+*1:00 - 1:30* jQuery
++ Review of [jQuery Fundamentals](https://learn.co/admin/lessons/5190)
 
 *1:30 - 2:00* Improv
 
