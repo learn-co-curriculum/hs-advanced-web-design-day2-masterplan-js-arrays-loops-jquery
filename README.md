@@ -10,11 +10,7 @@
 + JQuery Fundamentals
 
 ###Teaching objectives
-Today you will be teaching students how JavaScript arrays and loops work, and how to use jQuery to manipulate and navigate the DOM. These skills will make it easy to add interactive functionality to a website so you can build stuff like this:
-  + http://www.castadivainteriors.com/en/
-  + http://i.ngen.io/
-  + http://www.yourbrainonpoker.com/
-
+Today you will be teaching students how JavaScript arrays and loops work, and how to use jQuery to manipulate and navigate the DOM. These skills will make it easy to add interactive functionality to a website so you can build stuff like [this](http://www.castadivainteriors.com/en/), [this](http://i.ngen.io/), or [this](http://www.yourbrainonpoker.com/).
 
 ###Schedule
 
