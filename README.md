@@ -1,7 +1,3 @@
-#BugFix
-
-#Arrays, Loops, and JQuery
-
 ##Day 2 
 
 ###Technical Topics
