@@ -19,8 +19,8 @@ Today you will be teaching students how JavaScript arrays and loops work, and ho
 + A quick lab on conditional statements (True/False) and flow control (If/Else)
 
 *9:15 - 10:30* **JavaScript Arrays**
-  + Review [Arrays](https://learn.co/admin/lessons/5190)
-  + [Arrays Mini Lab](https://learn.co/admin/lessons/5206)
++ Review [Arrays](https://learn.co/admin/lessons/5190)
++ [Arrays Mini Lab](https://learn.co/admin/lessons/5206)
 
 *10:30 - 12:00* **JavaScript Loops**
 + Review [Loops](https://learn.co/admin/lessons/5190)
