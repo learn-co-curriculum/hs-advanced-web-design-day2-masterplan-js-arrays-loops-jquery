@@ -32,3 +32,5 @@ Today you will be teaching students how JavaScript arrays and loops work, and ho
 + [Chrome extension lab](https://learn.co/admin/lessons/5235)
 
 *2:50 - 3:00* **Daily wrap up**
+
+<a href='https://learn.co/lessons/hs-advanced-web-design-day2-masterplan-js-arrays-loops-jquery' data-visibility='hidden'>View this lesson on Learn.co</a>
