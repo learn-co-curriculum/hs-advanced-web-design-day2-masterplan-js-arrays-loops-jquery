@@ -33,4 +33,4 @@ Today you will be teaching students how JavaScript arrays and loops work, and ho
 
 *2:50 - 3:00* **Daily wrap up**
 
-<a href='https://learn.co/lessons/hs-advanced-web-design-day2-masterplan-js-arrays-loops-jquery' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-advanced-web-design-day2-masterplan-js-arrays-loops-jquery' title='Day 2'>Day 2</a> on Learn.co and start learning to code for free.</p>
